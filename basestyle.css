@@ -1,1 +1,2 @@
 #color1:invalid + .color1 {content:"Invalid, please try again!"; color:#ff0000;}
+#color1:valid + .color1 {content:"Good to go!"; color:#00ff10;}
